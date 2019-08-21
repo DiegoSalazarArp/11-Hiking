@@ -1,3 +1,3 @@
 # 11-Hiking
 
-testing: visualización de lista (JSON).
+testing: visualización de lista (JSON) SwiftUI
